@@ -6,3 +6,5 @@ Wynncraft Utilities is a modpack designed around the Minecraft Server, <a href="
 <br>From mods designed for Wynncraft, to other various different visuals and optimiation mods!
 
 If you have any issues while trying to use this modpack, please post an issue report in the <a href="https://github.com/zachup100/WynncraftUtilitiesModpack/issues">issues tab</a>!
+
+**Wynncraft Utilities modpack is not affiliated with Mojang, Microsoft or Wynncraft. This is purely a fan-made modpack**
